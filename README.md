@@ -1,5 +1,7 @@
 # FC 标志
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 <img src="FC-logo-smooth.svg" alt="FC 标志" width="240" height="240">
 
 - [paseo-logo-reference.svg](paseo-logo-reference.svg)：[Paseo](https://github.com/getpaseo/paseo) 的标志，作为尺寸和圆角参考。
