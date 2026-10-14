@@ -12,23 +12,25 @@
 
 ## 文件
 
-<p align="center">
-  <a href="FC-logo-smooth.svg"><img src="FC-logo-smooth.svg" width="180" height="180" alt="FC 标志平滑版预览"></a><br>
-  <strong><a href="FC-logo-smooth.svg">平滑版</a></strong><br>
-  48×48，平滑贝塞尔曲线
-</p>
-
-<p align="center">
-  <a href="FC-logo-gpt-image-original.svg"><img src="FC-logo-gpt-image-original.svg" width="180" height="180" alt="GPT Image 生成的 FC 标志原稿预览"></a><br>
-  <strong><a href="FC-logo-gpt-image-original.svg">原稿</a></strong><br>
-  GPT Image 生成
-</p>
-
-<p align="center">
-  <a href="paseo-logo-reference.svg"><img src="paseo-logo-reference.svg" width="180" height="180" alt="Paseo 标志参考图预览"></a><br>
-  <strong><a href="paseo-logo-reference.svg">参考图</a></strong><br>
-  <a href="https://github.com/getpaseo/paseo">Paseo</a> 标志，尺寸与圆角参考
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="FC-logo-smooth.svg"><img src="FC-logo-smooth.svg" width="180" alt="FC 标志平滑版预览"></a><br>
+      <strong><a href="FC-logo-smooth.svg">平滑版</a></strong><br>
+      48×48，平滑贝塞尔曲线
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="FC-logo-gpt-image-original.svg"><img src="FC-logo-gpt-image-original.svg" width="180" alt="GPT Image 生成的 FC 标志原稿预览"></a><br>
+      <strong><a href="FC-logo-gpt-image-original.svg">原稿</a></strong><br>
+      GPT Image 生成
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="paseo-logo-reference.svg"><img src="paseo-logo-reference.svg" width="180" alt="Paseo 标志参考图预览"></a><br>
+      <strong><a href="paseo-logo-reference.svg">参考图</a></strong><br>
+      <a href="https://github.com/getpaseo/paseo">Paseo</a> 标志，尺寸与圆角参考
+    </td>
+  </tr>
+</table>
 
 ## 协议
 
