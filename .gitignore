@@ -1,0 +1,24 @@
+# macOS Finder 和文件系统生成的元数据。
+.DS_Store
+.AppleDouble
+.LSOverride
+.apdisk
+
+# macOS 复制到外部磁盘或非原生文件系统时生成的资源分支旁车文件。
+._*
+
+# 磁盘索引、废纸篓、文件事件记录和系统临时目录。
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+.TemporaryItems/
+.DocumentRevisions-V100/
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# 常见编辑器的交换文件和备份文件。
+*.swp
+*.swo
+*~
+
+# 本文件不忽略 SVG、PNG 等设计资产及编辑器共享配置。
