@@ -20,6 +20,8 @@
 
 ## 协议
 
-本仓库内容（Paseo 参考图除外）采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，完整条款见 [LICENSE](LICENSE)。允许复制、修改、分发和商用；分发时须注明来源、提供协议链接，并说明是否有修改。
+本仓库内容（Paseo 参考图和第三方技能除外）采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，完整条款见 [LICENSE](LICENSE)。允许复制、修改、分发和商用；分发时须注明来源、提供协议链接，并说明是否有修改。
 
 [Paseo 参考图](paseo-logo-reference.svg) 不在上述授权范围内，其相关权利和使用条件以[原项目](https://github.com/getpaseo/paseo)的声明为准。
+
+第三方技能 [beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) 沿用 [MIT 协议](licenses/beautify-github-readme-MIT.txt)，安装来源见 [skills-lock.json](skills-lock.json)。
