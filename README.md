@@ -1,15 +1,25 @@
-# FC 标志
+<p align="center">
+  <img src="FC-logo-smooth.svg" width="200" height="200" alt="FC 标志平滑版本">
+</p>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+<h1 align="center">FC 标志</h1>
 
-<img src="FC-logo-smooth.svg" alt="FC 标志" width="240" height="240">
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="协议：CC BY 4.0">
+  </a>
+</p>
 
-- [paseo-logo-reference.svg](paseo-logo-reference.svg)：[Paseo](https://github.com/getpaseo/paseo) 的标志，作为尺寸和圆角参考。
-- [FC-logo-gpt-image-original.svg](FC-logo-gpt-image-original.svg)：GPT Image 生成的 FC 标志原稿。
-- [FC-logo-smooth.svg](FC-logo-smooth.svg)：平滑曲线后的 FC 标志，采用参考图的尺寸和圆角。
+## 文件
+
+| 版本 | 说明 |
+| --- | --- |
+| [平滑版](FC-logo-smooth.svg) | 48×48，平滑贝塞尔曲线 |
+| [原稿](FC-logo-gpt-image-original.svg) | GPT Image 生成 |
+| [参考图](paseo-logo-reference.svg) | [Paseo](https://github.com/getpaseo/paseo) 标志，尺寸与圆角参考 |
 
 ## 协议
 
-除下述参考图外，本仓库内容采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 协议，完整条款见 [LICENSE](LICENSE)。允许复制、修改、分发和商用；分发时须注明来源、提供协议链接，并说明是否有修改。
+本仓库内容（Paseo 参考图除外）采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，完整条款见 [LICENSE](LICENSE)。允许复制、修改、分发和商用；分发时须注明来源、提供协议链接，并说明是否有修改。
 
-[paseo-logo-reference.svg](paseo-logo-reference.svg) 是 [Paseo](https://github.com/getpaseo/paseo) 的标志，不在本仓库的 CC BY 4.0 授权范围内，其相关权利和使用条件以原项目的声明为准。
+[Paseo 参考图](paseo-logo-reference.svg) 不在上述授权范围内，其相关权利和使用条件以[原项目](https://github.com/getpaseo/paseo)的声明为准。
